@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="formatting.xlsx"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-xlsx"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="formatting.xlsx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">13</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.12082"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has a <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt>red<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has a <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt>red<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has an <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="TEXT-DECORATION: underline;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>underline<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has an <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="TEXT-DECORATION: underline;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>underline<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has a <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>bold<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has a <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>bold<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has an<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-STYLE: italic;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> italic<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has an<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-STYLE: italic;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> italic<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> word<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="cell"
+        phase-name="pretrans"><source>This line has a comment</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This line has a comment</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="comment"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Tahoma;FONT-SIZE: 9pt;COLOR: #000000;TEXT-ALIGN: left;"&gt;</bpt>Lori Okamoto:<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Tahoma;FONT-SIZE: 9pt;COLOR: #000000;TEXT-ALIGN: left;"&gt;</bpt>
+Comment by me!<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Tahoma;FONT-SIZE: 9pt;COLOR: #000000;TEXT-ALIGN: left;"&gt;</bpt>Lori Okamoto:<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Tahoma;FONT-SIZE: 9pt;COLOR: #000000;TEXT-ALIGN: left;"&gt;</bpt></mrk><mrk
+            mtype="protected"
+            mid="2">
+</mrk><mrk
+            mtype="seg"
+            mid="3">Comment by me!<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt> red and <ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt>bold<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> text<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line has<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt> red and <ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-WEIGHT: bold;FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #ff0000;"&gt;</bpt>bold<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> text<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="cell"
+        phase-name="pretrans"><source>This line has yellow background</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This line has yellow background</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="cell"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 14pt;COLOR: #000000;"&gt;</bpt>has bigger<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> text<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt>This line <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 14pt;COLOR: #000000;"&gt;</bpt>has bigger<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Font Style="FONT-FAMILY: Calibri;FONT-SIZE: 11pt;COLOR: #000000;"&gt;</bpt> text<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/Font&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="cell"
+        phase-name="pretrans"><source>This line has different font from other lines</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This line has different font from other lines</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="cell"
+        phase-name="pretrans"><source>Sheet1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Sheet1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
